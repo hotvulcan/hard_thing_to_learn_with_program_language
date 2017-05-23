@@ -1,6 +1,6 @@
 # using date and time function
 @吕宏伟
-## naming the var
+## naming the variable and symbols
 @吕宏伟
 ## choosing the right version
 @据悉社
